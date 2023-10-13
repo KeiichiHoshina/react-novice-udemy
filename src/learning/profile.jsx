@@ -1,5 +1,4 @@
 import React from "react";
-import "./learning.css";
 
 const Profile = (props) => {
     const { name, age } = props;
